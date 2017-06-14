@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tolsen</string>
+    <string name="userName">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+</resources>
